@@ -1,0 +1,7 @@
+Apelido - Pontuacao - Nivel - Tentativas
+Romeu - 958 - 2 - 3
+Romeu - 929 - 2 - 7
+Gabriela - 926 - 1 - 7
+Gabriela - 964 - 2 - 7
+Romeu - 941 - 2 - 6 
+Romeu - 922 - 2 - 5 
